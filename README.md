@@ -1,2 +1,2 @@
-# PPNet:An Efficient and Robust Deep Learning Network for Land Cover Segmentation from High Resolution Satellite Images(Submitted)
+# DPPNet:An Efficient and Robust Deep Learning Network for Land Cover Segmentation from High Resolution Satellite Images(Submitted)
 Code is comming soon....
